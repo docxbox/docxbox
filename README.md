@@ -26,15 +26,16 @@ visualize entity relationships, and provide contextual answers in real-time.
 
 **Tech**: Python, FastAPI, Neo4j, PySpark, React, Tailwind, OpenRouter/Ollama.
 
----
 
 **Highlights:**
-🔍 - Graph-RAG pipeline: vector search + graph expansion for deep context.
-📑 - Research integration: fetches papers & metadata directly from arXiv.
-💬 - Conversational AI: streaming chat interface powered by LLMs.
-📊 - Graph visualization: interactive knowledge graph of entities & relationships.
-🕒 - Chat history: revisit past queries and insights.
-⚡ - Scalable architecture: offline Spark processing + online FastAPI querying.
+
+---
+- Graph-RAG pipeline: vector search + graph expansion for deep context.
+- Research integration: fetches papers & metadata directly from arXiv.
+- Conversational AI: streaming chat interface powered by LLMs.
+- Graph visualization: interactive knowledge graph of entities & relationships.
+- Chat history: revisit past queries and insights.
+-  - Scalable architecture: offline Spark processing + online FastAPI querying.
 
 ---
 
