@@ -35,7 +35,7 @@ visualize entity relationships, and provide contextual answers in real-time.
 - Conversational AI: streaming chat interface powered by LLMs.
 - Graph visualization: interactive knowledge graph of entities & relationships.
 - Chat history: revisit past queries and insights.
--  - Scalable architecture: offline Spark processing + online FastAPI querying.
+- Scalable architecture: offline Spark processing + online FastAPI querying.
 
 ---
 
