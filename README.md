@@ -20,6 +20,22 @@ Driven by curiosity, I build backend systems, AI-powered solutions, and data-dri
 
 ## 📂 **Highlighted Projects**
 
+### [ScholarAI Graph RAG](https://github.com/docxbox/ScholarAI_Graph_Rag)
+An AI-powered research assistant that combines Graph Retrieval-Augmented Generation (Graph-RAG) with LLMs to query scientific papers, 
+visualize entity relationships, and provide contextual answers in real-time.
+
+**Tech**: Python, FastAPI, Neo4j, PySpark, React, Tailwind, OpenRouter/Ollama.
+
+**Highlights:**
+🔍 Graph-RAG pipeline: vector search + graph expansion for deep context.
+📑 Research integration: fetches papers & metadata directly from arXiv.
+💬 Conversational AI: streaming chat interface powered by LLMs.
+📊 Graph visualization: interactive knowledge graph of entities & relationships.
+🕒 Chat history: revisit past queries and insights.
+⚡ Scalable architecture: offline Spark processing + online FastAPI querying.
+
+---
+
 ### [Store Management System](https://github.com/docxbox/Store-Management-System)
 A robust Java-based inventory management system with features like product tracking, billing, and stock alerts.  
 **Tech:** Java, OOP, File I/O, Collections.  
