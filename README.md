@@ -1,6 +1,6 @@
 # Hi there, I'm Likhil Dahal 👋
 
-**`Systems Thinker | Software Engineer | AI Enthusiast`**
+**`Systems Thinker | Software Engineer | AI/ML`**
 
 Driven by curiosity, I build backend systems, AI-powered solutions, and data-driven applications. I enjoy exploring how technology can solve real-world problems — from designing clean backend architectures to building intelligent ML systems.
 
