@@ -26,6 +26,8 @@ visualize entity relationships, and provide contextual answers in real-time.
 
 **Tech**: Python, FastAPI, Neo4j, PySpark, React, Tailwind, OpenRouter/Ollama.
 
+---
+
 **Highlights:**
 🔍 - Graph-RAG pipeline: vector search + graph expansion for deep context.
 📑 - Research integration: fetches papers & metadata directly from arXiv.
