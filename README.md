@@ -1,97 +1,129 @@
 # Hi there, I'm Likhil Dahal 👋
 
-**`Systems Thinker | Software Engineer | AI/ML`**
+**`Systems Thinker | Research-Oriented AI/ML Engineer`**
 
-Driven by curiosity, I build backend systems, AI-powered solutions, and data-driven applications. I enjoy exploring how technology can solve real-world problems — from designing clean backend architectures to building intelligent ML systems.
+I’m a **BSc (Hons) Computing student** with research interests in **AI, Machine Learning, and Intelligent Systems at scale**. My work focuses on building **end-to-end AI systems** that integrate data pipelines, learning algorithms, and scalable system architecture.
 
----
-
-## 🚀 **Tech Stack**
-- **Languages:** Java, Python, SQL, C, HTML, CSS, JavaScript
-- **Backend:** Spring Boot, REST API, FastAPI
-- **Databases:** MySQL, PostgreSQL, 
-- **AI/ML:** NumPy, Pandas, Scikit-learn, Matplotlib, OpenCV, MediaPipe
-- **DevOps:** Docker, Git/GitHub
-- **Frontend (Basics):** HTML, CSS, React (learning)
-- **Tools:** Jupyter Lab, VS Code, Ecllipse, Anaconda Navigator
-- **OS:** Linux,Windows, Windows Server
+I enjoy **systems thinking** — breaking down complex problems and designing solutions that combine **data, algorithms, and infrastructure**. My goal is to translate **research ideas into practical, production-ready systems**, bridging the gap between prototypes and real-world applications.
 
 ---
 
-## 📂 **Highlighted Projects**
+## 🔬 Current Research & Development Focus
+- **AI-powered research & knowledge systems**: Graph-based retrieval + RAG pipelines
+- Backend-centric AI system design: data pipelines, APIs, and model integration
+- Translating research ideas into **deployable software systems**
+
+---
+
+## 🤝 Research Collaboration Interests
+- NLP, Graph-based Learning, and Knowledge Representation
+- Open-source AI/ML and research tools
+- Reproducible ML pipelines and scalable AI systems
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Deep Learning & Representation Learning**
+- Large-scale data processing and distributed systems
+- AI system scalability, deployment, and evaluation
+
+---
+
+## 💬 Ask Me About
+- RAG pipelines and knowledge graphs
+- Backend architectures for AI research systems
+- ML experimentation, evaluation, and tooling
+
+---
+
+## ⚡ Research Philosophy
+I’m fascinated by how **biology and evolution** can inspire **robust AI architectures**, not just smarter models but smarter systems.
+
+---
+
+## 💻 Tech Stack (GPRM Style)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white) 
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![REST API](https://img.shields.io/badge/REST-008000?style=for-the-badge) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+---
+
+## 📂 Highlighted Projects
 
 ### [ScholarAI Graph RAG](https://github.com/docxbox/ScholarAI_Graph_Rag)
-An AI-powered research assistant that combines Graph Retrieval-Augmented Generation (Graph-RAG) with LLMs to query scientific papers, 
-visualize entity relationships, and provide contextual answers in real-time.
-
-**Tech**: Python, FastAPI, Neo4j, PySpark, React, Tailwind, OpenRouter/Ollama.
-
-
+AI-powered research assistant combining **Graph-RAG** + LLMs to query scientific papers and visualize entity relationships.  
+**Tech:** Python, FastAPI, Neo4j, PySpark, React, Tailwind, OpenRouter/Ollama  
 **Highlights:**
-
----
-- Graph-RAG pipeline: vector search + graph expansion for deep context.
-- Research integration: fetches papers & metadata directly from arXiv.
-- Conversational AI: streaming chat interface powered by LLMs.
-- Graph visualization: interactive knowledge graph of entities & relationships.
-- Chat history: revisit past queries and insights.
-- Scalable architecture: offline Spark processing + online FastAPI querying.
-
----
+- Graph-RAG pipeline: vector search + graph expansion
+- Fetches papers & metadata directly from arXiv
+- Conversational AI with streaming chat
+- Interactive knowledge graph visualization
+- Scalable architecture: offline Spark + online FastAPI
 
 ### [Store Management System](https://github.com/docxbox/Store-Management-System)
-A robust Java-based inventory management system with features like product tracking, billing, and stock alerts.  
-**Tech:** Java, OOP, File I/O, Collections.  
-**Highlights:**
-- CRUD operations for products and customers.
-- Error handling and modular code structure.
-
----
+Java-based inventory management system.  
+**Tech:** Java, OOP, File I/O, Collections  
+**Highlights:** CRUD operations, modular structure, error handling
 
 ### [GrabGo E-Commerce Site](https://github.com/docxbox/GrabGo-Ecommerce-Site)
-A sleek, responsive grocery e-commerce platform.  
-**Tech:** HTML, CSS, JavaScript.  
-**Highlights:**
-- Interactive UI for browsing and adding items to cart.
-- Mobile-first responsive design.
-
----
+Responsive grocery e-commerce platform.  
+**Tech:** HTML, CSS, JavaScript  
+**Highlights:** Interactive UI, mobile-first responsive design
 
 ### [Inventory Management System CLI](https://github.com/docxbox/Inventory-Management-System-CLI)
-A lightweight command-line inventory system in Python.  
-**Tech:** Python, File Handling.  
-**Highlights:**
-- Interactive CLI to manage stock from a `.txt` file.
-- Supports add, update, and delete operations.
-
----
+Command-line Python inventory system.  
+**Tech:** Python, File Handling  
+**Highlights:** Interactive CLI, add/update/delete operations
 
 ### [Motion-Synced Robotic Arm](https://github.com/docxbox/Motion-Syned-Robotic-Arm)
-A Python + Arduino robotic arm controlled via real-time hand gesture detection.  
-**Tech:** Python, OpenCV, MediaPipe, Arduino.  
-**Highlights:**
-- Tracks hand gestures using webcam.
-- Sends motor control signals to Arduino in real time.
-
----
+Python + Arduino robotic arm controlled via hand gestures.  
+**Tech:** Python, OpenCV, MediaPipe, Arduino  
+**Highlights:** Real-time gesture tracking and motor control
 
 ### [NYC 311 Complaints Data Analysis](https://github.com/docxbox/NYC_311_Complaints_DATA_ANALYSIS)
-Exploratory Data Analysis (EDA) on 300K+ NYC 311 service requests.  
-**Tech:** Python, Pandas, Matplotlib, Seaborn.  
-**Highlights:**
-- Analyzed complaint trends, borough distributions, and response times.
-- Visualized patterns and correlations using plots and heatmaps.
+EDA on 300K+ NYC 311 service requests.  
+**Tech:** Python, Pandas, Matplotlib, Seaborn  
+**Highlights:** Trend analysis, borough-wise distribution, visualization
 
 ---
 
-## 📈 **Current Focus**
-- **DSA + Java (Spring Boot) for backend engineering.**
-- **ML/AI (Scikit-learn, PyTorch).**
-- **Building full-stack projects (React + API backend).**
-- **Seeking remote software engineering internships.**
+## 📈 Current Focus
+- **DSA + Java (Spring Boot) for backend engineering**
+- **ML/AI pipelines using PyTorch & Scikit-learn**
+- **Full-stack projects (React + API backend)**
+- Seeking **research-oriented internships or MS/PhD opportunities**
 
 ---
 
-## 🌐 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/likhil-dahal-72477928b)
-- [Email](mailto:likhildahal@outlook.com)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhil-dahal-72477928b)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhildahal@outlook.com)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=docxbox&theme=dark&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=docxbox&theme=dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=docxbox&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=docxbox&theme=radical&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=docxbox&icon=0&color=0)](https://visitcount.itsvg.in)
+
